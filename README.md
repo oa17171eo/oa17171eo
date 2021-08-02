@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...youtube
 - 🌱 I’m currently learning ...code
 - 💞️ I’m looking to collaborate on ...a project
-- 📫 How to reach me ...email: tochiuee@hotmail.com
+- 📫 How to reach me ...
 
 <!---
 oa17171eo/oa17171eo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
